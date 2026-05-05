@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+# NLP
+spacy
+# ML
+scikit-learn
+xgboost
+# Deep Learning
+torch
+transformers
+# Explainability
+shap
+# Optional (recommended for plots later)
+matplotlib
+seaborn
